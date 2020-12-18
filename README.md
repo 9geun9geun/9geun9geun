@@ -29,7 +29,7 @@
 </h1>
 
 <p align="center">
-  <a href="www.instagram.com/9geun9geun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=www.instagram.com/9geun9geun"/>
+  <a href="https://instagram.com/9geun9geun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/9geun9geun"/>
  <a href="https://keunmo-koo.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=About.me&logoColor=white&link=www.instagram.com/9geun9geun"/>
 </p>
 
