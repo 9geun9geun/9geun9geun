@@ -16,23 +16,14 @@ Keun Mo Koo 😀
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  
+
  </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM-054ADA?style=flat-square&logo=IBM&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-</p>
-
 
 <h1 align="center">
   ME
