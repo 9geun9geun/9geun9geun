@@ -25,12 +25,3 @@ Keun Mo Koo 😀
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>
 </p>
 
-<h1 align="center">
-  ME
-</h1>
-
-<p align="center">
-  <a href="https://instagram.com/9geun9geun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/9geun9geun"/>
-
-</p>
-
